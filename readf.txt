@@ -1,0 +1,11 @@
+app3: 
+added loader if no data found, 
+showing loader if response takes time: loading.
+
+app2: function code  udpated to variables and added promises --sync  await
+
+
+
+change url to movie/ to movies
+
+changed for testing error message.
